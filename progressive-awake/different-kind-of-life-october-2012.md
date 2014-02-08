@@ -2,7 +2,7 @@ Title: Different Kind Of Life (October 2012)
 Date: 2012-10-22 20:03
 Category: Progressive Awake
 Tags: trance, uplifting, tech
-Slug: different-kind-of-life-october-2012
+Slug: progressive-awake-different-kind-of-life-october-2012
 Author: Łukasz Siwiński
 Summary: DOWNLOAD LINK Tracklist[...]
 
