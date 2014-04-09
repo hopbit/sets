@@ -4,9 +4,9 @@ Category: Progressive Awake
 Tags: trance, uplifting, tech
 Slug: progressive-awake-different-kind-of-life-october-2012
 Author: Łukasz Siwiński
-Summary: DOWNLOAD LINK Tracklist[...]
+Summary: No. 22
 
-__[DOWNLOAD LINK](https://dl.dropbox.com/u/67075704/progressive-awake/progressive%20awake%20-%20different%20kind%20of%20life%20%28october%202012%29.mp3 "Progressive Awake - Different Kind Of Life (October 2012)")__
+__[DOWNLOAD LINK (107MB, 1h 28min](https://drive.google.com/file/d/0B_4_ynm06YZIX3hNcEZnYm00N2M/edit?usp=sharing "Progressive Awake - Different Kind Of Life (October 2012)")__
 
 Tracklist:
 
