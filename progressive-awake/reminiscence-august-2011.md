@@ -2,7 +2,7 @@ Title: Reminiscence (August 2011)
 Date: 2011-08-12 23:14
 Category: Progressive Awake
 Tags: dance, deep house, progressive house, tech house, techno
-Slug: reminiscence-august-2011
+Slug: progressive-awake-reminiscence-august-2011
 Author: Łukasz Siwiński
 Summary: No. 21
 
