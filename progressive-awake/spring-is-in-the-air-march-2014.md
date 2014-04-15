@@ -8,8 +8,7 @@ Summary: No. 23
 
 ![Progressive Awake - Spring is in the air (March 2014)](./images/progressive-awake-spring-is-in-the-air-march-2014.jpg)
 
-<iframe width="400" height="60" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fprogressiveawake%2Fprogressive-awake-spring-is-in-the-air-march-2014%2F&amp;mini=1&amp;embed_uuid=20df7860-9784-4842-8f77-cd3bf5382049&amp;replace=0&amp;hide_cover=1&amp;hide_artwork=1&amp;stylecolor=072bf7&amp;embed_type=widget_standard&amp;hide_tracklist=1" frameborder="0"></iframe>  
-  
+<iframe width="400" height="180" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fprogressiveawake%2Fprogressive-awake-spring-is-in-the-air-march-2014%2F&amp;embed_uuid=20df7860-9784-4842-8f77-cd3bf5382049&amp;replace=0&amp;hide_cover=1&amp;hide_artwork=1&amp;stylecolor=0026ff&amp;embed_type=widget_standard&amp;hide_tracklist=1" frameborder="0"></iframe>
   
 __[DOWNLOAD LINK](https://drive.google.com/open?id=0B_4_ynm06YZINzAwSTFZNlJIcVk "Spring is in the air (March 2014)")__
 
