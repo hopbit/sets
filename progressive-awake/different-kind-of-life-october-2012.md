@@ -6,7 +6,9 @@ Slug: progressive-awake-different-kind-of-life-october-2012
 Author: Łukasz Siwiński
 Summary: No. 22
 
-<iframe width="400" height="180" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fprogressiveawake%2Fprogressive-awake-different-kind-of-life-october-2012%2F&amp;embed_uuid=55e898bd-cf05-4b5b-aaad-abf4cf897d4f&amp;replace=0&amp;hide_cover=1&amp;embed_type=widget_standard&amp;hide_tracklist=1" frameborder="0"></iframe>
+![Progressive Awake - Different Kind Of Life (October 2012)](./images/progressive-awake-different-kind-of-life-october-2012.jpg)
+
+<iframe width="400" height="180" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fprogressiveawake%2Fprogressive-awake-different-kind-of-life-october-2012%2F&amp;embed_uuid=55e898bd-cf05-4b5b-aaad-abf4cf897d4f&amp;replace=0&amp;hide_cover=0&amp;embed_type=widget_standard&amp;hide_tracklist=1" frameborder="0"></iframe>
 
 __[DOWNLOAD LINK (107MB, 1h 28min](https://drive.google.com/file/d/0B_4_ynm06YZIX3hNcEZnYm00N2M/edit?usp=sharing "Progressive Awake - Different Kind Of Life (October 2012)")__
 
