@@ -1,10 +1,10 @@
-Title: T_ITLE
+Title: PostTemplate
 Date: 
 Category: Progressive Awake
 Tags: 
 Slug: 
 Author: Łukasz Siwiński
-Summary: No. NN
+Summary: Summary
 
 <a href ="#" 
     title="Progressive Awake - T_ITLE" target="_blank">
