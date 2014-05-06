@@ -6,6 +6,12 @@ Slug: love-cycle-february-2010
 Author: Łukasz Siwiński
 Summary: No. 2
 
+<!-- ### IMAGE ### -->
+<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIY1VxS0VSRl81TWs" 
+    title="DOWNLOAD" target="_blank">
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0BzB_BNja1f1Kb2M0QVBqalVPWGM" />
+</a>
+
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZIY1VxS0VSRl81TWs/edit?usp=sharing" 
     title="Quantum Energy - Love Cycle (February 2011)" target="_blank">
 **DOWNLOAD (93MB, 78MIN)**

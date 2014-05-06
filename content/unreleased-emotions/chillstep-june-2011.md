@@ -6,6 +6,12 @@ Slug: chillstep-june-2011
 Author: Łukasz Siwiński
 Summary: No. 2
 
+<!-- ### IMAGE ### -->
+<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIV2ZCb0dBQUZyV3M" 
+    title="DOWNLOAD" target="_blank">
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B2NgVbSH_izPMENsWTFSck9Ncm8" />
+</a>
+
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZIV2ZCb0dBQUZyV3M/edit?usp=sharing" 
     title="Unreleased Emotions - Chillstep (June 2011)" target="_blank">
 **DOWNLOAD (93MB, 67min)**

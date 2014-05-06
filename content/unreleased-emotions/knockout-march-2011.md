@@ -6,6 +6,12 @@ Slug: knockout-march-2011
 Author: Łukasz Siwiński
 Summary: No. 1
 
+<!-- ### IMAGE ### -->
+<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIX29YTW1tZnYyTFk" 
+    title="DOWNLOAD" target="_blank">
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B2NgVbSH_izPbjJxNmZ1XzlPMEE" />
+</a>
+
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZIX29YTW1tZnYyTFk/edit?usp=sharing" 
     title="Unreleased Emotions - Knockout (March 2011)" target="_blank">
 **DOWNLOAD (95MB, 67 min)**
