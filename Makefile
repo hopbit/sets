@@ -33,6 +33,11 @@ html:
 
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+	cd $(OUTPUTDIR)
+	git add . -A
+	git commit -m "site update from master branch"
+	git push origin gh-pages
+	cd $(BASEDIR)
 
 serve:
 ifdef PORT
