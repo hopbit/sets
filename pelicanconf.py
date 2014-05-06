@@ -31,18 +31,31 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-          ('Facebook', 'https://www.facebook.com/ProgressiveAwake'),
-          ('Facebook', 'https://www.facebook.com/QuantumEnergyPodcast'),
-          ('BitBucket', 'https://bitbucket.org/hopbit'),
-          ('GitHub', 'https://github.com/hopbit'),
-          ('Google+', 'https://plus.google.com/113990170437825708147/posts'),
-          ('Twitter', 'https://twitter.com/lsiwinski'),
-          ('YouTube', 'http://www.youtube.com/user/yhopbit'),
-          ('GoldenLine', 'http://www.goldenline.pl/lukasz-siwinski/'),
-          ('Gravatar', 'http://pl.gravatar.com/hopbit'),
-          ('Lasf.fm', 'http://www.lastfm.pl/user/lsiwinski'),
-          ('StackOverflow', 'http://stackoverflow.com/users/235973/lukasz-siwinski'),
+#          ('Facebook', 'https://www.facebook.com/ProgressiveAwake'),
           )
+          
+# Fresh Dance Music Social Sidebar
+SOCIAL_FRESH_DANCE_MUSIC = (
+    ('Facebook', 'https://www.facebook.com/FreshDanceMusicSets'),
+    ('Twitter', 'https://twitter.com/freshdancemusic'),
+)
+
+# Progressive Awake Social Sidebar
+SOCIAL_PROGRESSIVE_AWAKE = (
+          ('Facebook', 'https://www.facebook.com/ProgressiveAwake'),
+          ('Google+', 'https://plus.google.com/u/0/b/118408593215853675429/118408593215853675429/posts'),
+          ('Twitter', 'https://twitter.com/progawake'),
+)
+
+# Quantum Energy Social Sidebar
+SOCIAL_QUANTUM_ENERGY = (
+    ('Facebook', 'https://www.facebook.com/QuantumEnergyPodcast'),
+)
+
+# Unreleased Emotions Social Sidebar
+SOCIAL_UNRELEASED_EMOTIONS = (
+            ('Facebook', 'https://www.facebook.com/UnreleasedEmotions'),
+           )
 
 DEFAULT_PAGINATION = False
 
