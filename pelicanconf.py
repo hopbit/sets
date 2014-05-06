@@ -49,4 +49,4 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-THEME = 'd:\hopbit\dev\workspace\pelican\pelican-themes\pelican-bootstrap3'
+THEME = 'pelican-bootstrap3'
