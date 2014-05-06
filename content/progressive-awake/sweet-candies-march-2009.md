@@ -9,7 +9,7 @@ Summary: No. 7
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIeDFFM1pBamZuYkk" 
     title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4RTVWb2tDeENxOEU" />
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4a0pUUkxtblQ3Z1U" />
 </a>
 
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZIeDFFM1pBamZuYkk/edit?usp=sharing" 
