@@ -20,7 +20,7 @@ help:
 	@echo '                                                                       			'
 	@echo 'Usage:                                                                 			'
 	@echo '   make html                        (re)generate the web site (localhost)		'
-	@echo '   make publish                     generate using production settings (github)	'
+	@echo '   make publish                     generate whole page using production settings (github) && push it to gh-branch'
 	@echo '   make serve [PORT=8000]           serve site at http://localhost:8000			'
 	@echo '   make devserver [PORT=8000]       start/restart develop_server.sh    			'
 	@echo '   make stopserver                  stop local server                  			'
@@ -33,11 +33,7 @@ html:
 
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
-	cd $(OUTPUTDIR)
-	git add . -A
-	git commit -m "site update from master branch"
-	git push origin gh-pages
-	cd $(BASEDIR)
+	cd $(OUTPUTDIR) && git add . -A && git commit -m "site update from master branch" && git push origin gh-pages && cd $(BASEDIR)
 
 serve:
 ifdef PORT
