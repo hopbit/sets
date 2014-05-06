@@ -6,6 +6,13 @@ Slug: primrose-april-2008
 Author: Łukasz Siwiński
 Summary: No. 1
 
+<!-- ### IMAGE ### -->
+<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIcU9vQmFCa3haaE0" 
+    title="DOWNLOAD" target="_blank">
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528eXpkNVd3T2NLMXc" />
+</a>
+
+<!-- ### DOWNLOAD LINK ### -->
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZIcU9vQmFCa3haaE0/edit?usp=sharing" 
     title="Progressive Awake - Primrose (April 2008)" target="_blank">
 **DOWNLOAD (90MB, 78min)**

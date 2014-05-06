@@ -6,8 +6,14 @@ Slug: for-an-angel-january-2010
 Author: Łukasz Siwiński
 Summary: No. 2
 
+<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIcC1JNWxzMjFLQmc" 
+    title="DOWNLOAD" target="_blank">
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528eWZNNmp0S3puX1E" />
+</a>
+
 <iframe width="400" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1381204&auto_play=false&show_artwork=false&color=ff7700"></iframe>
-<a href ="https://drive.google.com/file/d/0B_4_ynm06YZIcC1JNWxzMjFLQmc/edit?usp=sharing" 
+
+<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIcC1JNWxzMjFLQmc" 
     title="Fresh Dance Music - For An Angel (January 2010)" target="_blank">
 **DOWNLOAD (77MB, 56min)**
 </a>
