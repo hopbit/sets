@@ -6,9 +6,15 @@ Slug: sweet-candies-march-2009
 Author: Łukasz Siwiński
 Summary: No. 7
 
+<!-- ### IMAGE ### -->
+<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIeDFFM1pBamZuYkk" 
+    title="DOWNLOAD" target="_blank">
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4RTVWb2tDeENxOEU" />
+</a>
+
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZIeDFFM1pBamZuYkk/edit?usp=sharing" 
     title="Progressive Awake - Sweet candies (March 2009)" target="_blank">
-DOWNLOAD (86MB, 63min)
+**DOWNLOAD (86MB, 63min)**
 </a>
 
 TRACKLIST:  

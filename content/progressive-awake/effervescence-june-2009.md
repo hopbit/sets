@@ -6,6 +6,12 @@ Slug: effervescence-june-2009
 Author: Łukasz Siwiński
 Summary: No. 12
 
+<!-- ### IMAGE ### -->
+<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIMzNOTzF1b3dlaUk" 
+    title="DOWNLOAD" target="_blank">
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4NnFzUjYxN05mS0k" />
+</a>
+
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZIMzNOTzF1b3dlaUk/edit?usp=sharing" 
     title="Progressive Awake - Effervescence (June 2009)" target="_blank">
 **DOWNLOAD (56MB, 60min)**

@@ -6,9 +6,15 @@ Slug: when-i-am-overtaken-by-april-2009
 Author: Łukasz Siwiński
 Summary: No. 8
 
+<!-- ### IMAGE ### -->
+<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIZF9ZMzhfcFc4NDA" 
+    title="DOWNLOAD" target="_blank">
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4dmVNY2ZyVlh1WTA" />
+</a>
+
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZIZF9ZMzhfcFc4NDA/edit?usp=sharing" 
     title="Progressive Awake - When I am overtaken by (April 2009)" target="_blank">
-DOWNLOAD (58MB, 63min)
+**DOWNLOAD (58MB, 63min)**
 </a>
 
 TRACKLIST:  

@@ -6,9 +6,15 @@ Slug: love-paradox-august-2008
 Author: Łukasz Siwiński
 Summary: No. 3
 
+<!-- ### IMAGE ### -->
+<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIYkpPZHpQZC1rYlk" 
+    title="DOWNLOAD" target="_blank">
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4bmV6RzhrUzQteTA" />
+</a>
+
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZIYkpPZHpQZC1rYlk/edit?usp=sharing" 
     title="Progressive Awake - ?" target="_blank">
-DOWNLOAD (101MB, 1h 13min)
+**DOWNLOAD (101MB, 1h 13min)**
 </a>
 
 TRACKLIST:  

@@ -6,6 +6,12 @@ Slug: midgard-may-2009
 Author: Łukasz Siwiński
 Summary: No. 10
 
+<!-- ### IMAGE ### -->
+<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIQ2ZXOGZlLUJEcE0" 
+    title="DOWNLOAD" target="_blank">
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4eFJmRTdGMVk1REE" />
+</a>
+
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZIQ2ZXOGZlLUJEcE0/edit?usp=sharing" 
     title="Progressive Awake - Midgard (May 2009)" target="_blank">
 **DOWNLOAD (60MB, 64min)**

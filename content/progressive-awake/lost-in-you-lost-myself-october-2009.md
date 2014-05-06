@@ -6,6 +6,12 @@ Slug: lost-in-you-lost-myself-october-2009
 Author: Łukasz Siwiński
 Summary: No. 16
 
+<!-- ### IMAGE ### -->
+<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIaWNaNk1zNlVfbzQ" 
+    title="DOWNLOAD" target="_blank">
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4MVFMaXBma0JRR2s" />
+</a>
+
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZIaWNaNk1zNlVfbzQ/edit?usp=sharing" 
     title="Progressive Awake - Lost in You, lost myself… (October 2009)" target="_blank">
 **DOWNLOAD (89MB , 65min)**

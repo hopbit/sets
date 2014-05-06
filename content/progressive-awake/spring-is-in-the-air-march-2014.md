@@ -6,11 +6,19 @@ Slug: progressive-awake-spring-is-in-the-air-march-2014
 Author: Łukasz Siwiński
 Summary: No. 23
 
-![Progressive Awake - Spring is in the air (March 2014)](./images/progressive-awake-spring-is-in-the-air-march-2014.jpg)
+<!-- ### IMAGE ### -->
+<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZINzAwSTFZNlJIcVk" 
+    title="DOWNLOAD" target="_blank">
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4bUJlYlZOYk9CanM" />
+</a>
 
 <iframe width="400" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/144704833&amp;color=0066cc&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false"></iframe>
-  
-<a href="https://drive.google.com/open?id=0B_4_ynm06YZINzAwSTFZNlJIcVk" title="Spring is in the air (March 2014)" target="_blank"><b>DOWNLOAD LINK</b></a>
+
+<!-- DOWNLOAD LINK -->
+<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZINzAwSTFZNlJIcVk" 
+    title="Spring is in the air (March 2014)" target="_blank">
+**DOWNLOAD LINK**
+</a>
 
 Tracklist:
 

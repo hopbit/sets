@@ -6,8 +6,14 @@ Slug: its-in-my-soul-june-2008
 Author: Łukasz Siwiński
 Summary: No. 1
 
+<!-- ### IMAGE ### -->
+<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIamdja2Y3RkZMdmc" 
+    title="DOWNLOAD" target="_blank">
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4aHhwem9saW1yRjg" />
+</a>
+
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZIamdja2Y3RkZMdmc/edit?usp=sharing" 
-    title="Progressive Awake - It’s in my soul (June 2008)hel" target="_blank">
+    title="Progressive Awake - It’s in my soul (June 2008)" target="_blank">
 DOWNLOAD LINK (71MB, 1h 2min)
 </a>
 

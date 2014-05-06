@@ -6,6 +6,12 @@ Slug: just-fly-with-me-december-2008
 Author: Łukasz Siwiński
 Summary: No. 4
 
+<!-- ### IMAGE ### -->
+<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIU2JGanRxaWRyMGM" 
+    title="DOWNLOAD" target="_blank">
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4STU3UVcxR3VIZjA" />
+</a>
+
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZIU2JGanRxaWRyMGM/edit?usp=sharing" 
     title="Progressive Awake - ?" target="_blank">
 DOWNLOAD (92MB, 1h 6min)

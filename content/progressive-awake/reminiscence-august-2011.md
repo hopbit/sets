@@ -6,7 +6,17 @@ Slug: progressive-awake-reminiscence-august-2011
 Author: Łukasz Siwiński
 Summary: No. 21
 
-__[DOWNLOAD LINK (206MB, 1h 28min)](https://drive.google.com/file/d/0B_4_ynm06YZIclB4M2JnUDNTYUk/edit?usp=sharing "Progressive Awake - Reminiscence (August 2011)")__
+<!-- ### IMAGE ### -->
+<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIclB4M2JnUDNTYUk" 
+    title="DOWNLOAD" target="_blank">
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4RDI1ajNvendtRzA" />
+</a>
+
+<!-- DOWNLOAD LINK -->
+<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIclB4M2JnUDNTYUk" 
+    title="Progressive Awake - Reminiscence (August 2011)" target="_blank">
+**DOWNLOAD LINK (206MB, 1h 28min)**
+</a>
 
 TRACKLIST:  
 
@@ -27,5 +37,5 @@ TRACKLIST:
 * mark knight, tiesto ft. dino – beatiful world (original club mix)
 * paul kalkbrenner – gutes nitzwerk (original mix)
 
-All tracks are available to buy on Beatport.
-Enjoy.
+All tracks are available to buy on <a href="http://beatport.com" target="_blank">Beatport</a>.
+Enjoy!

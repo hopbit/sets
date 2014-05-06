@@ -6,6 +6,12 @@ Slug: 4-seasons-of-love-november-2009
 Author: Łukasz Siwiński
 Summary: No. 17
 
+<!-- ### IMAGE ### -->
+<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIWUF1ZVVBdklhUkE" 
+    title="DOWNLOAD" target="_blank">
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4eEE4Uks4M1J3am8" />
+</a>
+
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZIWUF1ZVVBdklhUkE/edit?usp=sharing" 
     title="Progressive Awake - 4 Seasons Of Love (November 2009)" target="_blank">
 **DOWNLOAD (79MB, 58min)**

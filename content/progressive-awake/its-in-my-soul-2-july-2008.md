@@ -6,6 +6,12 @@ Slug: its-in-my-soul-2-july-2008
 Author: Łukasz Siwiński
 Summary: No. 2
 
+<!-- ### IMAGE ### -->
+<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZISVpHOGdEckxqTmM" 
+    title="DOWNLOAD" target="_blank">
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4ZE9qZzVrQVJrY00" />
+</a>
+
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZISVpHOGdEckxqTmM/edit?usp=sharing" 
     title="Progressive Awake - It’s in my soul 2 (July 2008)" target="_blank">
 DOWNLOAD LINK (95MB, 1h 9min)

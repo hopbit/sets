@@ -6,9 +6,15 @@ Slug: hard-days-at-work-april-2009
 Author: Łukasz Siwiński
 Summary: No. 9
 
+<!-- ### IMAGE ### -->
+<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIdnpnVlJOV25tSEU" 
+    title="DOWNLOAD" target="_blank">
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4VE5sUW0zeVRaUW8" />
+</a>
+
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZIdnpnVlJOV25tSEU/edit?usp=sharing" 
     title="Progressive Awake - Hard days at work (April 2009)" target="_blank">
-DOWNLOAD (57MB, 62min)
+**DOWNLOAD (57MB, 62min)**
 </a>
 
 TRACKLIST:  
