@@ -1,19 +1,28 @@
-Title: PostTemplate
+Title: #TITLE
 Date: 
 Category: Unreleased Emotions
 Tags: 
 Slug: 
 Author: Łukasz Siwiński
-Summary: Summary
+Summary: #SUMMARY
 
-<a href ="#" 
-    title="Unreleased Emotions - T_ITLE" target="_blank">
+<!-- ### IMAGE ### -->
+<a href ="https://drive.google.com/uc?export=download&id=#MP3_ID" 
+    title="DOWNLOAD" target="_blank">
+    <img width="400" src="https://drive.google.com/uc?export=download&id=#IMAGE_ID" />
+</a>
+
+<!-- PLAYER -->
+
+<!-- DOWNLOAD LINK -->
+<a href ="https://drive.google.com/uc?export=download&id=#MP3_ID" 
+    title="#TITLE" target="_blank">
 **DOWNLOAD**
 </a>
 
 TRACKLIST:  
 
-* track 1...
+* #ARTIST - #TITLE (#REMIX) <a href="#BEATPORT_LINK" target="_blank">BUY</a> 
 
 All tracks are available to buy on <a href="http://beatport.com" target="_blank">Beatport</a>.
 Enjoy!
