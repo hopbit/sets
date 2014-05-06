@@ -20,13 +20,9 @@ TRANSLATION_FEED_ATOM = None
 # Blogroll
 LINKS = (
         ('Einar Mixes','http://einarmixes.blogspot.com/'),
-        ('GeeCON','http://geecon.org'),
         ('Life For Music', 'http://www.lifeformusic.pl/'),
-        ('Mobile Warsaw', 'http://mobile-warsaw.pl'),
         ('RDJ.PL', 'http://rdj.pl'),
-        ('Vigeo Games', 'http://blog.vigeogam.es/'),
-        ('Warsjawa', 'http://warsjawa.pl'),
-        ('WJUG', 'http://www.warszawa.jug.pl/'),
+        ('Wiosenne Czarowanie', 'http://wiosenneczarowanie.info/'),
         )
 
 # Social widget
