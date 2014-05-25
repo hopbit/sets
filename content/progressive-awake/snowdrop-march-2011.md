@@ -4,12 +4,12 @@ Category: Progressive Awake
 Tags: break beat, progressive house, tech house, trance
 Slug: progressive-awake-snowdrop-march-2011
 Author: Łukasz Siwiński
-Summary: No. 20
+Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4U05zMm5EbkZ5YjA" />
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIMzBNSE9lYTRjN1U" 
     title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4TDI4NnZjcFJSYlE" />
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4U05zMm5EbkZ5YjA" />
 </a>
 
 <!-- DOWNLOAD LINK -->

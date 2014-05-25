@@ -4,12 +4,12 @@ Category: Progressive Awake
 Tags:  progressive house
 Slug: holidays-wanted-june-2009 
 Author: Łukasz Siwiński
-Summary: No. 11
+Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4cWxkSkJEcGprd1E" />
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZITmE4NHMwMVlLREU" 
     title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4M21hYWdudkRDRlE" />
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4cWxkSkJEcGprd1E" />
 </a>
 
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZITmE4NHMwMVlLREU/edit?usp=sharing" 

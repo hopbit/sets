@@ -4,12 +4,12 @@ Category: Progressive Awake
 Tags: progressive house, tech house, techno
 Slug: ungovernable-appetence-semptember-2009
 Author: Łukasz Siwiński
-Summary: No. 14
+Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4Sk9RR0JuUXRxMkE" />
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIbGdLOEV1U1FyTDA" 
     title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4SzN3Vy1xWVVmbXM" />
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4Sk9RR0JuUXRxMkE" />
 </a>
 
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZIbGdLOEV1U1FyTDA/edit?usp=sharing" 

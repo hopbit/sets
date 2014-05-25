@@ -4,12 +4,12 @@ Category: Fresh Dance Music
 Tags: dance, vocal house
 Slug: house-sweet-house-march-2010
 Author: Łukasz Siwiński
-Summary: No. 3
+Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528UURtMjg0TFFYcTA" />
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIcC1JNWxzMjFLQmc" 
     title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528ZjdKTDV0Y1Y4S0E" />
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528UURtMjg0TFFYcTA" />
 </a>
 
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZITDMzU0tJN3Vucnc" 

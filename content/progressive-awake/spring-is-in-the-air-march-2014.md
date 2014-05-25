@@ -4,12 +4,12 @@ Category: Progressive Awake
 Tags: progressive house
 Slug: progressive-awake-spring-is-in-the-air-march-2014
 Author: Łukasz Siwiński
-Summary: No. 23
+Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4YlJ4RVJLUWU4R3c" />
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZINzAwSTFZNlJIcVk" 
     title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4bUJlYlZOYk9CanM" />
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4YlJ4RVJLUWU4R3c" />
 </a>
 
 <iframe width="400" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/144704833&amp;color=0066cc&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=false"></iframe>

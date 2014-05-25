@@ -4,12 +4,12 @@ Category: Quantum Energy
 Tags: dnb, jazzy dnb, liquid dnb, tech step
 Slug: winter-solstice-december-2012
 Author: Łukasz Siwiński
-Summary: No. 4
+Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0BzB_BNja1f1KN0pPS0t2bjN0SW8" />
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIQ3hqRTdwR1pnRUk" 
     title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0BzB_BNja1f1KcEc0R1BzN1pzVkU" />
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0BzB_BNja1f1KN0pPS0t2bjN0SW8" />
 </a>
 
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZIQ3hqRTdwR1pnRUk/edit?usp=sharing" 

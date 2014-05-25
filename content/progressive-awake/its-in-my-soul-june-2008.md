@@ -4,12 +4,12 @@ Category: Progressive Awake
 Tags:  electro house, progressive house, tech house
 Slug: its-in-my-soul-june-2008
 Author: Łukasz Siwiński
-Summary: No. 1
+Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4WG1POHVGU3o1OTQ" />
 
 <!-- ### IMAGE ### -->
-<a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIamdja2Y3RkZMdmc" 
+<a href ="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4WG1POHVGU3o1OTQ" 
     title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4aHhwem9saW1yRjg" />
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4WG1POHVGU3o1OTQ" />
 </a>
 
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZIamdja2Y3RkZMdmc/edit?usp=sharing" 

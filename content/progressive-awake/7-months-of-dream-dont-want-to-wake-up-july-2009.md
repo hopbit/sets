@@ -4,12 +4,12 @@ Category: Progressive Awake
 Tags:  progressive house, progressive trance, tech house 
 Slug: 7-months-of-dream-july-2009
 Author: Łukasz Siwiński
-Summary: No. 13
+Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4TmFrbEJlTjBWM1E" />
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIcVRtaHRmNTU1MkE" 
     title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4NGttZWh5QThOaEU" />
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4TmFrbEJlTjBWM1E" />
 </a>
 
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZIcVRtaHRmNTU1MkE/edit?usp=sharing" 

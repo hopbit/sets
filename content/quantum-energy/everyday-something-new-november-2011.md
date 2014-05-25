@@ -4,12 +4,12 @@ Category: Quantum Energy
 Tags: dnb, liquid dnb
 Slug: everyday-something-new-november-2011
 Author: Łukasz Siwiński
-Summary: No. 3
+Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0BzB_BNja1f1KUkVLWTdCLWVKTDA" />
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIY3RrUW1CNk1BaXM" 
     title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0BzB_BNja1f1KaF9hdzBnemp5LU0" />
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0BzB_BNja1f1KUkVLWTdCLWVKTDA" />
 </a>
 
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZIY3RrUW1CNk1BaXM/edit?usp=sharing" 

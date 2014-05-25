@@ -4,12 +4,12 @@ Category: Progressive Awake
 Tags:  progressive house
 Slug: discovering-myself-with-you-march-2009
 Author: Łukasz Siwiński
-Summary: No. 6
+Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4QlBuRDJZdk1WMHM" />
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZINy1PMWFXMEVnZVk" 
     title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4RTVWb2tDeENxOEU" />
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4QlBuRDJZdk1WMHM" />
 </a>
 
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZINy1PMWFXMEVnZVk/edit?usp=sharing" 

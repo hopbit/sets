@@ -4,12 +4,12 @@ Category: Progressive Awake
 Tags:  dance, progressive house, tech house, techno
 Slug: music-is-my-oxygen-january-2010
 Author: Łukasz Siwiński
-Summary: No. 18
+Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4bTlrSklwREZxQXM" />
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIOF9nRThwLWstaWc" 
     title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4S2VLdDFuMnJ1VUU" />
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4bTlrSklwREZxQXM" />
 </a>
 
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZIOF9nRThwLWstaWc/edit?usp=sharing" 

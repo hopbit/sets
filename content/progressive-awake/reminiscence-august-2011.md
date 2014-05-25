@@ -4,12 +4,12 @@ Category: Progressive Awake
 Tags: dance, deep house, progressive house, tech house, techno
 Slug: progressive-awake-reminiscence-august-2011
 Author: Łukasz Siwiński
-Summary: No. 21
+Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4NlpVQy1STXVMZHM" />
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIclB4M2JnUDNTYUk" 
     title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4RDI1ajNvendtRzA" />
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4NlpVQy1STXVMZHM" />
 </a>
 
 <!-- DOWNLOAD LINK -->

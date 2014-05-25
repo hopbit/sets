@@ -4,12 +4,12 @@ Category: Progressive Awake
 Tags: progressive house, tech house
 Slug: love-paradox-august-2008
 Author: Łukasz Siwiński
-Summary: No. 3
+Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4ellla1dQbzBaQXM" />
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIYkpPZHpQZC1rYlk" 
     title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4bmV6RzhrUzQteTA" />
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4ellla1dQbzBaQXM" />
 </a>
 
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZIYkpPZHpQZC1rYlk/edit?usp=sharing" 

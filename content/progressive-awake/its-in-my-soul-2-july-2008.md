@@ -4,12 +4,12 @@ Category: Progressive Awake
 Tags: progressive house, tech house
 Slug: its-in-my-soul-2-july-2008
 Author: Łukasz Siwiński
-Summary: No. 2
+Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4Wmo0OFRybHJ1Y28" />
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZISVpHOGdEckxqTmM" 
     title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4ZE9qZzVrQVJrY00" />
+    <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4Wmo0OFRybHJ1Y28" />
 </a>
 
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZISVpHOGdEckxqTmM/edit?usp=sharing" 
