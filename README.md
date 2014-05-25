@@ -17,9 +17,6 @@ Lucas.
 
 ## TODO/FIXME ##
 
-- resize covers in order to save bandwidth
-- change menu font to bigger
-- replace summary numbers by covers
 - add links to beatport/itunes withi tracklists
 
 ----
