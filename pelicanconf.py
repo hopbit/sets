@@ -30,11 +30,14 @@ SOCIAL = (
     ( 'Fresh Dance Music', (
         ('Facebook', 'https://www.facebook.com/FreshDanceMusicSets'),
         ('Twitter', 'https://twitter.com/freshdancemusic'),
+        ('Soundcloud', 'https://soundcloud.com/freshdancemusic'),
     )),
     ('Progressive Awake', (
           ('Facebook', 'https://www.facebook.com/ProgressiveAwake'),
           ('Google+', 'https://plus.google.com/u/0/b/118408593215853675429/118408593215853675429/posts'),
           ('Twitter', 'https://twitter.com/progawake'),
+          ('Mixcloud', 'http://www.mixcloud.com/progressiveawake/'),
+          ('Soundcloud', 'https://soundcloud.com/progressive-awake'),
     )),
     ('Quantum Energy', (
         ('Facebook', 'https://www.facebook.com/QuantumEnergyPodcast'),
