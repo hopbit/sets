@@ -18,5 +18,12 @@ Lucas.
 ## TODO/FIXME ##
 
 - add links to beatport/itunes withi tracklists
+- social networks
+  - facebook
+  - twitter
+  - g+
+- other networks
+  - soundcloud
+  - mixcloud
 
 ----
