@@ -18,7 +18,7 @@ Photo by: **Justyna Helena Majewska**
 
 <a href ="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528NDBkc0tHRTZPQ1k" 
     title="Fresh Dance Music - For An Angel (January 2010)" target="_blank">
-**DOWNLOAD (77MB, 56min)**
+**DOWNLOAD (160MB, 70min)**
 </a>
 
 Tracklist:  
