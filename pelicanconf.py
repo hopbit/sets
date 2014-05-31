@@ -30,8 +30,8 @@ SOCIAL = (
     ( 'Fresh Dance Music', (
         ('Facebook', 'https://www.facebook.com/FreshDanceMusicSets'),
         ('Twitter', 'https://twitter.com/freshdancemusic'),
-        ('Soundcloud', 'https://soundcloud.com/freshdancemusic'),
         ('Mixcloud', 'http://www.mixcloud.com/FreshDanceMusic/'),
+        ('Soundcloud', 'https://soundcloud.com/freshdancemusic'),
     )),
     ('Progressive Awake', (
           ('Facebook', 'https://www.facebook.com/ProgressiveAwake'),
