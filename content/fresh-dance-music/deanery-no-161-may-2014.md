@@ -6,7 +6,7 @@ Slug: deanery-no-161-may-2014
 Author: Łukasz Siwiński
 Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528cFA2X1c5VXRzekE" />
 
-<a href ="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528NDBkc0tHRTZPQ1k" 
+<a href ="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528UkxsVmZDQzF0Mms" 
     title="DOWNLOAD" target="_blank">
     <img width="400" src="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528cFA2X1c5VXRzekE" />
 </a><br/>
@@ -16,7 +16,7 @@ Photo by: **Justyna Helena Majewska**
 
 <iframe width="400" height="60" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2FFreshDanceMusic%2Fdeanery-no-161-may-2014%2F&amp;mini=1&amp;embed_uuid=f21dd33b-97b1-4ea2-bd8f-261ff9b43af1&amp;replace=0&amp;hide_cover=1&amp;hide_artwork=1&amp;embed_type=widget_standard&amp;hide_tracklist=1" frameborder="0"></iframe>
 
-<a href ="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528NDBkc0tHRTZPQ1k" 
+<a href ="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528UkxsVmZDQzF0Mms" 
     title="Fresh Dance Music - For An Angel (January 2010)" target="_blank">
 **DOWNLOAD (160MB, 70min)**
 </a>
