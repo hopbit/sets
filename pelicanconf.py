@@ -42,6 +42,7 @@ SOCIAL = (
     )),
     ('Quantum Energy', (
         ('Facebook', 'https://www.facebook.com/QuantumEnergyPodcast'),
+        ('Soundcloud', 'https://soundcloud.com/quantumenergy'),
     )),
     ('Unreleased Emotions', (
         ('Facebook', 'https://www.facebook.com/UnreleasedEmotions'),
