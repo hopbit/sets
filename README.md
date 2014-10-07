@@ -17,13 +17,22 @@ Lucas.
 
 ## TODO/FIXME ##
 
-- add links to beatport/itunes withi tracklists
-- social networks
-  - facebook
-  - twitter
-  - g+
-- other networks
-  - soundcloud
-  - mixcloud
+Going through Archive from oldest sets to most recent.
+
+- current set: 
+    - primrose-april-2008 
+- to fix:
+    + download link
+    + cover
+    + links to itunes/beatport/junodownload
+    + mixcloud player box
+    + push online
+    - post on facebook
+    - post on twitter
+    - post on g+
+    - fan on mixcloud
+    - fan on twitter
+    - fan on soundcloud
+    - fan on youtube
 
 ----
