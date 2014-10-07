@@ -34,7 +34,7 @@ TRACKLIST:
 * _22 min:_ wet fingers – zacznij żyć (club mix) NA2BO
 * _30 min:_ h’twoo feat. platnum – what’s it gonna be (thomas gold rmx)
 <a href="https://itunes.apple.com/pl/album/whats-it-gonna-be-thomas-gold/id273676997?i=273679077" target="_blank">BUY</a>
-* _36 min:_ david guetta feat. tara mcdonald – delirious (ale nie pamiÍtam jaki remix ;)
+* _36 min:_ david guetta feat. tara mcdonald – delirious (fred rister remix)
 <a href="https://itunes.apple.com/pl/album/delirious-fred-rister-remix/id279768954?i=279768998" target="_blank">BUY</a>
 * _40 min:_ sugababes – denial (ian carey rmx)
 <a href="https://itunes.apple.com/pl/album/denial-ian-carey-vocal-mix/id275450985?i=275451022" target="_blank">BUY</a>
