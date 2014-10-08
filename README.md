@@ -27,12 +27,13 @@ Going through Archive from oldest sets to most recent.
     + links to itunes/beatport/junodownload
     + mixcloud player box
     + push online
-    - post on facebook
-    - post on twitter
-    - post on g+
-    - fan on mixcloud
-    - fan on twitter
-    - fan on soundcloud
-    - fan on youtube
+    + post on facebook
+    + post on twitter
+    + post on g+
+    + fan on soundcloud
+    + fan on mixcloud
+    + fan on facebook
+    + fan on twitter
+    + fan on youtube
 
 ----
