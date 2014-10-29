@@ -20,20 +20,23 @@ Lucas.
 Going through Archive from oldest sets to most recent.
 
 - current set: 
-    - primrose-april-2008 
+    * its-in-my-soul-june-2008.html 
 - to fix:
-    + download link
-    + cover
-    + links to itunes/beatport/junodownload
-    + mixcloud player box
-    + push online
-    + post on facebook
-    + post on twitter
-    + post on g+
-    + fan on soundcloud
-    + fan on mixcloud
-    + fan on facebook
-    + fan on twitter
-    + fan on youtube
+    - download link
+    - cover
+    - links to itunes/beatport/junodownload
+    - mixcloud player box
+    - push online
+    - post on facebook
+    - post on twitter
+    - post on g+
+    - fan on soundcloud
+    - fan on mixcloud
+    - fan on facebook
+    - fan on twitter
+    - fan on youtube
+
+* fixed sets entries:
+    * primrose-april-2008
 
 ----
