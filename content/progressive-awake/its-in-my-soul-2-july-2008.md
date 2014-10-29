@@ -14,7 +14,7 @@ Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B
 
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZISVpHOGdEckxqTmM/edit?usp=sharing" 
     title="Progressive Awake - It’s in my soul 2 (July 2008)" target="_blank">
-DOWNLOAD LINK (95MB, 1h 9min)
+**DOWNLOAD LINK (95MB, 1h 9min)**
 </a>
 
 TRACKLIST:  
