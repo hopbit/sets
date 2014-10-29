@@ -22,10 +22,10 @@ Going through Archive from oldest sets to most recent.
 - current set: 
     * its-in-my-soul-june-2008.html 
 - to fix:
-    - download link
+    + download link
+    - mixcloud player box
     - cover
     - links to itunes/beatport/junodownload
-    - mixcloud player box
     - push online
     - post on facebook
     - post on twitter
