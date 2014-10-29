@@ -4,12 +4,12 @@ Category: Fresh Dance Music
 Tags: dance, pop
 Slug: primrose-april-2008
 Author: Łukasz Siwiński
-Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528eXpkNVd3T2NLMXc" />
+Summary: <img width="300" src="https://lh5.googleusercontent.com/qzwgQuPrJ_3dVutWvRMdqCXM_xEEJrjFG46-UTWVM4B33t0UjrCVsBNskbnCDWGHF48DLnFbIH0=w1332-h572" />
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?id=0B8ZWtaisj528WUVkVExyNU5ETk0&export=download" 
     title="DOWNLOAD" target="_blank">
-    <img width="400" src="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528eXpkNVd3T2NLMXc" />
+    <img width="400" src="https://lh5.googleusercontent.com/qzwgQuPrJ_3dVutWvRMdqCXM_xEEJrjFG46-UTWVM4B33t0UjrCVsBNskbnCDWGHF48DLnFbIH0=w1332-h572" />
 </a>
 
 <!-- ### PLAYER ### -->
