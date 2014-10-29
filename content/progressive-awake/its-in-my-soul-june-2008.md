@@ -7,12 +7,12 @@ Author: Łukasz Siwiński
 Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4WG1POHVGU3o1OTQ" />
 
 <!-- ### IMAGE ### -->
-<a href ="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4WG1POHVGU3o1OTQ" 
+<a href ="https://docs.google.com/uc?id=0B1aIvu0NI6o4eVF6ZVYwWVhsdkk&export=download" 
     title="DOWNLOAD" target="_blank">
     <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4WG1POHVGU3o1OTQ" />
 </a>
 
-<a href ="https://drive.google.com/file/d/0B_4_ynm06YZIamdja2Y3RkZMdmc/edit?usp=sharing" 
+<a href ="https://docs.google.com/uc?id=0B1aIvu0NI6o4eVF6ZVYwWVhsdkk&export=download" 
     title="Progressive Awake - It’s in my soul (June 2008)" target="_blank">
 DOWNLOAD LINK (71MB, 1h 2min)
 </a>
