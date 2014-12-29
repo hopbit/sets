@@ -28,7 +28,7 @@ TRACKLIST:
 * sample minds – the highlander (original mix)
 * cramp – ru116 (proff remix)
 * george f. zimmer – back to solaris (original mix)
-* ban coda – bloom (matan caspi remix)
+* ben coda – bloom (matan caspi remix)
 * matan caspi – turn the beat back (leventina re animation)
 * t pe3, thomas montevideo – sublime nightmare (original mix)
 * stan kolev ft. tatiana blades – here comes the rain again (summer of love mix)
