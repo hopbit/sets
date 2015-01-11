@@ -1,7 +1,7 @@
 Title: Cave (January 2015)
 Date: 2015-01-11
 Category: Fresh Dance Music
-Tags: dance, pop, house, pop, dnb
+Tags: dance, pop, house, dnb
 Slug: cave-january-2015
 Author: Łukasz Siwiński
 Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528SzZlNEhYM3dxMGc" />
