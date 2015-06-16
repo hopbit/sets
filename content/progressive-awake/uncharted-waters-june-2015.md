@@ -11,9 +11,7 @@ Summary: Uncharted Waters (June 2015)
     <img width="400" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4ZWdYeFZ0dVZ3T3M" />
 </a><br/>
 
-<!--
-<iframe width="400" height="60" src="https://www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2FFreshDanceMusic%2Fcave-january-2015%2F&amp;mini=1&amp;embed_uuid=d4da08a2-fda6-4c65-a1a3-1f953c4ce3f5&amp;replace=0&amp;hide_cover=1&amp;light=1&amp;hide_artwork=1&amp;stylecolor=000000&amp;embed_type=widget_standard&amp;hide_tracklist=1" frameborder="0"></iframe>
--->
+<iframe width="400" height="60" src="https://www.mixcloud.com/widget/iframe/?embed_type=widget_standard&amp;embed_uuid=06dd213d-8c8d-44b0-b856-160887fe3b43&amp;feed=https%3A%2F%2Fwww.mixcloud.com%2Fprogressiveawake%2Funcharted-waters-june-2015%2F&amp;hide_artwork=1&amp;hide_cover=1&amp;hide_tracklist=1&amp;light=1&amp;mini=1&amp;replace=0" frameborder="0"></iframe>
 
 <a href ="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4QnV5RDhlQmFxNzA" 
     title="Progressive Awake - Uncharted Waters (June 2015)" target="_blank">
