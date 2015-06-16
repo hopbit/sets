@@ -4,7 +4,7 @@ Category: Progressive Awake
 Tags: progressive house
 Slug: doubtfulness-waves-september-2009
 Author: Łukasz Siwiński
-Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4aWF0czBGQmJjOE0" />
+Summary: 
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIOWREbnlvSWhqZzA" 

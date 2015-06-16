@@ -4,7 +4,7 @@ Category: Quantum Energy
 Tags: dnb, liquid dnb
 Slug: everyday-something-new-november-2011
 Author: Łukasz Siwiński
-Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0BzB_BNja1f1KUkVLWTdCLWVKTDA" />
+Summary: 
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIY3RrUW1CNk1BaXM" 

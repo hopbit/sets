@@ -4,7 +4,7 @@ Category: Progressive Awake
 Tags: progressive house, tech house
 Slug: nothing-january-2009
 Author: Łukasz Siwiński
-Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4cXVpVENxa3JDUkk" />
+Summary: 
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/file/d/0B_4_ynm06YZIZ3k4a0w2V21nbXc/edit?usp=sharing" 

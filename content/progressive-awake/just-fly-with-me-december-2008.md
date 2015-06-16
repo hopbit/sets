@@ -4,7 +4,7 @@ Category: Progressive Awake
 Tags: progressive house
 Slug: just-fly-with-me-december-2008
 Author: Łukasz Siwiński
-Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4VGdUYmI4THQ0S3c" />
+Summary: 
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIU2JGanRxaWRyMGM" 

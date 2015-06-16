@@ -4,7 +4,7 @@ Category: Progressive Awake
 Tags: progressive house, indie dance, nu disco, tech house, deep house, electronica
 Slug: uncharted-waters-june-2015
 Author: Łukasz Siwiński
-Summary: Uncharted Waters (June 2015)
+Summary: 
 
 <a href ="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4QnV5RDhlQmFxNzA" 
     title="DOWNLOAD" target="_blank">

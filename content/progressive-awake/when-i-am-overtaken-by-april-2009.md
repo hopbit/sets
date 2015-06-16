@@ -4,7 +4,7 @@ Category: Progressive Awake
 Tags: progressive house, techno, dance
 Slug: when-i-am-overtaken-by-april-2009
 Author: Łukasz Siwiński
-Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4NmQyY3RaeDRwZWs" />
+Summary: 
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIZF9ZMzhfcFc4NDA" 

@@ -4,7 +4,7 @@ Category: Quantum Energy
 Tags: dnb, neuro funk, liquid dnb
 Slug: love-cycle-february-2010
 Author: Łukasz Siwiński
-Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0BzB_BNja1f1KQjRza1RLbThnTTA" />
+Summary: 
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIY1VxS0VSRl81TWs" 

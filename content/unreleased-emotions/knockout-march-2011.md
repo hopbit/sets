@@ -4,7 +4,7 @@ Category: Unreleased Emotions
 Tags:  dub breaks, electro house, fidget house, progressive breaks
 Slug: knockout-march-2011
 Author: Łukasz Siwiński
-Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B2NgVbSH_izPdlkwWWRtMVRGRDQ" />
+Summary: 
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIX29YTW1tZnYyTFk" 

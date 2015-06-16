@@ -4,7 +4,7 @@ Category: Progressive Awake
 Tags:  dance, progressive house
 Slug: first-snow-november-2010
 Author: Łukasz Siwiński
-Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4cDJYVjY0My1sYTA" />
+Summary: 
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIX1lleU1lUEl0YWM" 

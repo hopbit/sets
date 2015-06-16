@@ -4,7 +4,7 @@ Category: Progressive Awake
 Tags: trance, uplifting, tech
 Slug: progressive-awake-different-kind-of-life-october-2012
 Author: Łukasz Siwiński
-Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4T19aSS1oWGllQ1E" />
+Summary: 
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIX3hNcEZnYm00N2M" 

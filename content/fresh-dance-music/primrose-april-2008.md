@@ -4,7 +4,7 @@ Category: Fresh Dance Music
 Tags: dance, pop
 Slug: primrose-april-2008
 Author: Łukasz Siwiński
-Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528TFhuQXNLUzlyV2s" />
+Summary: 
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?id=0B8ZWtaisj528WUVkVExyNU5ETk0&export=download" 

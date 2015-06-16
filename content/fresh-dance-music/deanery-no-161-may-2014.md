@@ -4,7 +4,7 @@ Category: Fresh Dance Music
 Tags: dance, pop, house, pop dnb
 Slug: deanery-no-161-may-2014
 Author: Łukasz Siwiński
-Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528cFA2X1c5VXRzekE" />
+Summary: 
 
 <a href ="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528UkxsVmZDQzF0Mms" 
     title="DOWNLOAD" target="_blank">

@@ -4,7 +4,7 @@ Category: Quantum Energy
 Tags: liquid dnb, dnb
 Slug: still-waters-run-deep-december-2010
 Author: Łukasz Siwiński
-Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0BzB_BNja1f1KY1B2aWhMT0syRTg" />
+Summary: 
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIamVCUS12TW1haHM" 

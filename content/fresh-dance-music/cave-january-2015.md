@@ -4,7 +4,7 @@ Category: Fresh Dance Music
 Tags: dance, pop, house, dnb
 Slug: cave-january-2015
 Author: Łukasz Siwiński
-Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528SzZlNEhYM3dxMGc" />
+Summary: 
 
 <a href ="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528OTFSUzRKWndPV2s" 
     title="DOWNLOAD" target="_blank">

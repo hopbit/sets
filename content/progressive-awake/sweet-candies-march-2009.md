@@ -4,7 +4,7 @@ Category: Progressive Awake
 Tags:  progressive house, tech house, techno
 Slug: sweet-candies-march-2009
 Author: Łukasz Siwiński
-Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4ejV6UG9YLTMtSlE" />
+Summary: 
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIeDFFM1pBamZuYkk" 

@@ -4,7 +4,7 @@ Category: Unreleased Emotions
 Tags:  dubstep, popstep, progressive house
 Slug: chillstep-june-2011
 Author: Łukasz Siwiński
-Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B2NgVbSH_izPblA4ZWZtU3VTOVk" />
+Summary: 
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIV2ZCb0dBQUZyV3M" 

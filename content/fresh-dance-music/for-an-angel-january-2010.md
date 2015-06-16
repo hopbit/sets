@@ -4,7 +4,7 @@ Category: Fresh Dance Music
 Tags: dance, pop
 Slug: for-an-angel-january-2010
 Author: Łukasz Siwiński
-Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B8ZWtaisj528R2xBSXJoYlkzOVE" />
+Summary: 
 
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIcC1JNWxzMjFLQmc" 
     title="DOWNLOAD" target="_blank">

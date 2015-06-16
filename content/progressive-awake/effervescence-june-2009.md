@@ -4,7 +4,7 @@ Category: Progressive Awake
 Tags: progressive house
 Slug: effervescence-june-2009
 Author: Łukasz Siwiński
-Summary: <img width="300" src="https://drive.google.com/uc?export=download&id=0B1aIvu0NI6o4LUhKT3BwSUxzd2s" />
+Summary: 
 
 <!-- ### IMAGE ### -->
 <a href ="https://drive.google.com/uc?export=download&id=0B_4_ynm06YZIMzNOTzF1b3dlaUk" 
