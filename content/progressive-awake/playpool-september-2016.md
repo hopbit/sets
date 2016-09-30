@@ -31,4 +31,4 @@ Tracklist:
 09. jasper forks - river flows in you (club mix)  
 
 
-Enjoy & support artists by buying their music!
+Enjoy & support artists by [buying their music](http://www.junodownload.com/charts/mixcloud/progressiveawake/playpool-september-2016/495514471)!
