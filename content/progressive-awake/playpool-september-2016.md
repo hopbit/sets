@@ -16,7 +16,7 @@ Summary:
 <a href ="https://docs.google.com/uc?id=0B1aIvu0NI6o4SHY1eWRETTJPNlE&export=download" 
     title="Progressive Awake - Playpool (September 2016)" target="_blank">
 **DOWNLOAD (107MB, 47min)**
-</a>he
+</a>
 
 Tracklist:  
 
