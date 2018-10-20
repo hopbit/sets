@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'\u0141ukasz Siwi\u0144ski'
 SITENAME = u'DJ Sets'
-SITEURL = 'http://siwinski.info/sets'
+SITEURL = 'http://hopbit.github.io/sets/index.html'
 
 PATH = 'content'
 
