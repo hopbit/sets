@@ -30,7 +30,4 @@ Tracklist:
 08. stefy de cicco - i wanna walk (to the rythm of your heart) (original mix)  
 09. jasper forks - river flows in you (club mix)  
 
-test
-
-
 Enjoy & support artists by [buying their music](http://www.junodownload.com/charts/mixcloud/progressiveawake/playpool-september-2016/495514471)!
