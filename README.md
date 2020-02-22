@@ -7,9 +7,8 @@
   * [Facebook](https://www.facebook.com/QuantumEnergyPodcast), [Twitter](https://soundcloud.com/quantumenergy) 
 * [**Unreleased Emotions Sets**](https://hopbit.github.io/unreleased-emotions/)
   * [Facebook](https://www.facebook.com/UnreleasedEmotions)
-
 * [**Live Sets**](https://hopbit.github.io/live-sets/)
-
+  * [Facebook](https://www.facebook.com/siwinski.info/)
 
 ----
 
