@@ -1,4 +1,5 @@
- 
+![DJ Sets](./README.jpg)
+
 * [**Fresh Dance Music Sets**](http://hopbit.github.io/fresh-dance-music/)
   * [Facebook](https://www.facebook.com/FreshDanceMusicSets), [Twitter](https://twitter.com/freshdancemusic), [Mixcloud](http://www.mixcloud.com/FreshDanceMusic/), [Soundcloud](https://soundcloud.com/freshdancemusic)
 * [**Progressive Awake Sets**](https://hopbit.github.io/progressive-awake/)
