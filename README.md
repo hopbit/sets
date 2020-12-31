@@ -5,7 +5,6 @@
 * [**Quantum Energy Sets**](https://hopbit.github.io/quantum-energy/)
 * [**Project 1000 Plus**](https://hopbit.github.io/project1000plus/)
 * [**Live Sets**](https://hopbit.github.io/live-sets/)
-  * [Facebook](https://www.facebook.com/siwinski.info/)
 
 ----
 
