@@ -12,6 +12,7 @@
 
 ----
 
+* [**Crates Review**](https://hopbit.github.io/crates-review/)
 * [**Live Sets**](https://hopbit.github.io/live-sets/)
 
 ----
