@@ -3,7 +3,7 @@
 ----
 
 Projects
-========
+--------
 
 * [**Progressive Awake**](https://hopbit.github.io/progressive-awake/) 
 * [**Project 1000 Plus**](https://hopbit.github.io/project1000plus/)
