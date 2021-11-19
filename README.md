@@ -2,18 +2,13 @@
 
 ----
 
-* [**Fresh Dance Music Sets**](http://hopbit.github.io/fresh-dance-music/) 
-* [**Progressive Awake Sets**](https://hopbit.github.io/progressive-awake/) 
-* [**Quantum Energy Sets**](https://hopbit.github.io/quantum-energy/) 
+##Projects:##
 
-----
-
+* [**Progressive Awake**](https://hopbit.github.io/progressive-awake/) 
 * [**Project 1000 Plus**](https://hopbit.github.io/project1000plus/)
-
-----
-
+* [**Fresh Dance Music**](http://hopbit.github.io/fresh-dance-music/) 
+* [**Quantum Energy**](https://hopbit.github.io/quantum-energy/) 
 * [**Crates Review**](https://hopbit.github.io/crates-review/)
-* [**Live Sets**](https://hopbit.github.io/live-sets/)
 
 ----
 
